@@ -1,0 +1,15 @@
+header
+{
+    background-color: aquamarine;
+    display: flex;
+}
+ 
+.contaner img
+{
+    text-align: center;
+    margin-left: 550px;
+    height: auto;
+    width: 400px;
+    margin-top: 15px;
+
+}
